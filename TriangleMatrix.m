@@ -1,6 +1,10 @@
 clear all
 clc
 
+
+%A = input('Enter matrix: ');
+%disp(Untitled2(A));
+
 n = 4;
 m = 4;
 NUM = 9;
